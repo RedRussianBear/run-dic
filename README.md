@@ -2,9 +2,9 @@
 **Mikhail Khrenov**
 *June 2017 - January 2018*
 
-The final code used for the paper "A Novel Single Camera Robotic System for 3D-DIC with
-Targetless Extrinsic Calibration". Work done at the 
-[Multi-Scale Measurements Laboratory](www.robotics.umd.edu/labs/multi-scale-measurements-laboratory)
+The final code used for the paper "A Novel Single Camera Robotic Approach for Three-Dimensional 
+Digital Image Correlation with Targetless Extrinsic Calibration and Expanded View Angles". Work done 
+at the [Multi-Scale Measurements Laboratory](www.robotics.umd.edu/labs/multi-scale-measurements-laboratory)
 of the University of Maryland's Clark School of Engineering, Department of Mechanical Engineering.
 
 Mentored by Dr. Hugh A. Bruck.
